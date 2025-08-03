@@ -44,14 +44,21 @@
 - `README.md` — этот файл  
 
 ## Как запустить проект  
-1. Склонируйте репозиторий:  
+1. Клонирование через git  
+- Склонируйте репозиторий:  
   </pre> git clone https://github.com/DataDashInsight/abc-analysis-superstore.git </pre>
-2. Установите зависимости:  
-  <pre> pip install -r requirements.txt </pre>  
-3. Откройте abc_analysis.ipynb в Jupyter Notebook или Google Colab.
-4. Запустите ячейки по порядку.
+- Установите зависимости:  
+  <pre> pip install -r requirements.txt (запускается в терминале, в папке с проектом) </pre>  
+- Откройте abc_analysis.ipynb в Jupyter Notebook.
+- Запустите ячейки по порядку.
 
-***P.S.*** 
+2. Скачать как ZIP-архив
+- Зайти на страницу репозитория на GitHub https://github.com/DataDashInsight/abc-analysis-superstore.git
+- Нажать на кнопку Code.
+- Выбрать Download ZIP.
+- Распаковать архив у себя на компьютере.
+
+***P.S.***   
 Если вы впервые слышите про ABC-анализ — обязательно попробуйте применить его к своим данным!  
 Это простой и мощный инструмент для оптимизации бизнеса.
 
