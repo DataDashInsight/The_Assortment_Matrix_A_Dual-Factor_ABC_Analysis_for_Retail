@@ -41,6 +41,18 @@
 - `abc_analysis.ipynb` — Jupyter Notebook с полным анализом и визуализациями
 - `requirements.txt` — список необходимых библиотек  
 - `Superstore_Orders.csv` — исходный датасет
-- `README.md` — этот файл
+- `README.md` — этот файл  
+
+## Как запустить проект  
+1. Склонируйте репозиторий:  
+  git clone https://github.com/DataDashInsight/abc-analysis-superstore.git
+2. Установите зависимости:  
+  <pre> ```pip install -r requirements.txt``` </pre>  
+3. Откройте abc_analysis.ipynb в Jupyter Notebook или Google Colab.
+4. Запустите ячейки по порядку.
+
+**P.S.**  
+Если вы впервые слышите про ABC-анализ — обязательно попробуйте применить его к своим данным!  
+Это простой и мощный инструмент для оптимизации бизнеса.
 
     
