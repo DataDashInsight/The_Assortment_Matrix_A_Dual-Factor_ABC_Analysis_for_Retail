@@ -48,7 +48,8 @@
 - Склонируйте репозиторий:  
   </pre> git clone https://github.com/DataDashInsight/abc-analysis-superstore.git </pre>
 - Установите зависимости:  
-  <pre> pip install -r requirements.txt (запускается в терминале, в папке с проектом) </pre>  
+  <pre> pip install -r requirements.txt </pre>   
+  команда запускается в терминале, в папке с проектом     
 - Откройте abc_analysis.ipynb в Jupyter Notebook.
 - Запустите ячейки по порядку.
 
